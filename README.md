@@ -81,7 +81,7 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. **Repositório selecionado:** [Flask — pallets/flask](https://github.com/pallets/flask), framework web escrito em Python e utilizado no exemplo deste exercício.
+1. **Repositório selecionado:** [Flask — pallets/flask](https://github.com/pallets/flask)
 
 2. **Gráfico selecionado:** `Function return type`, que mostra a quantidade de funções com e sem anotação explícita do tipo de retorno.
 
