@@ -1,0 +1,149 @@
+{
+  "repositorio": "https://github.com/pallets/flask",
+  "head": "49943b5a94413a530761350f04e896f76e8d620e",
+  "gerado_em": "2026-11-06T23:17:53.628365+00:00",
+  "python": "3.14.0",
+  "gitevo": "0.1.3",
+  "tree_sitter": "0.26.0",
+  "tree_sitter_python": "0.25.0",
+  "amostragem": "Primeiro commit encontrado pelo GitEvo em cada ano, por data do committer.",
+  "amostras": [
+    {
+      "ano": 2010,
+      "data": "2010-04-06",
+      "commit": "33850c0ebd23ae615e6823993d441f46d80b1ff0"
+    },
+    {
+      "ano": 2011,
+      "data": "2011-01-08",
+      "commit": "9ae4eba9861bfa959bac6adfaf5842ef7d937eb6"
+    },
+    {
+      "ano": 2012,
+      "data": "2012-01-05",
+      "commit": "b6625ec19329031ddb26dec63c6bd0477a00bf22"
+    },
+    {
+      "ano": 2013,
+      "data": "2013-01-04",
+      "commit": "7a3d74f19f98b69e3047d0ed0085b5a1c9f806fc"
+    },
+    {
+      "ano": 2014,
+      "data": "2014-01-02",
+      "commit": "52098e1e4fc4d9c962e9ecb09dfbbcc6ac80a4d7"
+    },
+    {
+      "ano": 2015,
+      "data": "2015-01-02",
+      "commit": "33534bb4a9937e6faba5ecec4586519f453369b6"
+    },
+    {
+      "ano": 2016,
+      "data": "2016-01-02",
+      "commit": "952a6c8989137bb0c44adaf37df0227b8e426a75"
+    },
+    {
+      "ano": 2017,
+      "data": "2017-01-01",
+      "commit": "09973a7387d6239bae310af6c1d580f191b47c0a"
+    },
+    {
+      "ano": 2018,
+      "data": "2018-01-03",
+      "commit": "f7983ae96a5da9c7763ebd65947fb6032e2df36c"
+    },
+    {
+      "ano": 2019,
+      "data": "2019-01-04",
+      "commit": "5e07e3a6ada63e322597dd1ca25fecff25d0ae8d"
+    },
+    {
+      "ano": 2020,
+      "data": "2020-02-06",
+      "commit": "ce08807a8b1f1229a1c390b6a86d5ee0f4029da0"
+    },
+    {
+      "ano": 2021,
+      "data": "2021-01-01",
+      "commit": "e4c70eff7747abf12726d90f38d3c28006baf087"
+    },
+    {
+      "ano": 2022,
+      "data": "2022-01-13",
+      "commit": "a025ee3f25044145a38e650aaf097f32bc5b2e83"
+    },
+    {
+      "ano": 2023,
+      "data": "2023-01-01",
+      "commit": "bb1f83c26586f1aa254d67a67e6b692034b4cb4a"
+    },
+    {
+      "ano": 2024,
+      "data": "2024-01-01",
+      "commit": "63ff4185f9d1306c3bd54489f1adb88e7b48e588"
+    },
+    {
+      "ano": 2025,
+      "data": "2025-01-05",
+      "commit": "6b361ce06b08454329286214072139228e8c2f33"
+    },
+    {
+      "ano": 2026,
+      "data": "2026-01-05",
+      "commit": "97bddc1f61a59522386d36ec37b2b220a01de262"
+    }
+  ],
+  "tipagem_antes_do_merge": {
+    "commit": "b8ddd52a0dffe33d7a083cd949479835d6ae2787",
+    "contagens": {
+      "outros": {
+        "yes": 0,
+        "no": 52
+      },
+      "src/flask": {
+        "yes": 0,
+        "no": 357
+      },
+      "tests": {
+        "yes": 0,
+        "no": 939
+      }
+    }
+  },
+  "tipagem_depois_do_merge": {
+    "commit": "1a8549debb914eecc85cf63034093b55792c7e8f",
+    "data": "2021-04-27T07:32:10-07:00",
+    "contagens": {
+      "outros": {
+        "yes": 0,
+        "no": 52
+      },
+      "src/flask": {
+        "yes": 303,
+        "no": 54
+      },
+      "tests": {
+        "yes": 0,
+        "no": 939
+      }
+    }
+  },
+  "retornos_por_diretorio_2026": {
+    "commit": "97bddc1f61a59522386d36ec37b2b220a01de262",
+    "contagens": {
+      "outros": {
+        "yes": 11,
+        "no": 52
+      },
+      "src/flask": {
+        "yes": 366,
+        "no": 3
+      },
+      "tests": {
+        "yes": 42,
+        "no": 946
+      }
+    }
+  }
+}
